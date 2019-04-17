@@ -8,10 +8,10 @@
     "Fakebook": {
       "primary": "333",
       "secondary": "ffffff",
-      "tertiary": "4267b2",
+      "tertiary": "707070",
       "quaternary": "4267b2",
-      "header_background": "4267b2",
-      "header_primary": "ffffff",
+      "header_background": "ffffff",
+      "header_primary": "707070",
       "highlight": "4267b2",
       "danger": "f8745c",
       "success": "42b72a",
